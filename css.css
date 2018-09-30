@@ -1,0 +1,83 @@
+#wrapper{
+	width: 400px;
+	height: 600px;	
+	border-style: solid;
+	border-width: 2px;
+
+}
+#head{
+	width:100%;
+	height: 100px;
+	background-image: url("http://www.lidolande.lv/wp-content/themes/lidolande/images/logo.svg");
+	background-size: cover;
+	padding-bottom: 10px;
+	
+	
+}
+#tabula{
+	padding-top: 10px;
+	padding-bottom:5px;
+	height: 400px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+#td{
+	background-color: white;
+	border-style: solid;
+	border-width: 2px;
+	
+}
+#izvelne{
+	background-image: url("izvelnebg.png");
+	background-size: cover;
+	
+}
+#poga{
+	width:100%;
+	height: 120px;
+	background-color: white;
+}
+#footer{
+	background-color: purple;
+	width:100%;
+	height:90px;
+	background-image: url("footer-bg.png");
+	background-size: 100% 100%;
+}
+#pogaizk{
+	padding-bottom: 10px;
+	width: 100%;
+	height: 70%;
+	background-color: red;
+	border-style: solid;
+	border-width: 1px;
+}
+#td2{
+	background-color: yellow;
+	border-style: solid;
+	border-width: 1px;
+}
+#augša{
+	padding-top:10px;
+	display:block;
+	width:100%;
+	height:50%
+}
+#apakša{
+	display:block;
+	width:100%;
+	height:30%;
+}
+#apakša p{
+	margin-top:auto;
+	font-size: 25px;
+	color: black;
+	font-family: "Arial Black";
+}
+a:link{
+	text-decoration: none;
+}
+a:visited{
+	text-decoration: none;
+	color: black;
+}
