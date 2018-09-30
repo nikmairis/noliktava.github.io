@@ -20,6 +20,7 @@
 	height: 400px;
 	padding-left: 20px;
 	padding-right: 20px;
+	table-layout: fixed;
 }
 #td{
 	background-color: white;
@@ -28,7 +29,7 @@
 	
 }
 #izvelne{
-	background-image: url("izvelnebg.png");
+	background-image: url("../bildes/izvelnebg.png");
 	background-size: cover;
 	
 }
@@ -41,7 +42,7 @@
 	background-color: purple;
 	width:100%;
 	height:90px;
-	background-image: url("footer-bg.png");
+	background-image: url("../bildes/footer-bg.png");
 	background-size: 100% 100%;
 }
 #pogaizk{
